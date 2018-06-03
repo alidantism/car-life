@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:textDirection="rtl"
+    android:layoutDirection="rtl"
+    android:padding="12dp"
+    android:layout_height="wrap_content">
+
+    <life.car.CustomViews.MyTextView
+        android:id="@+id/title"
+        android:text="salll"
+        android:textAlignment="textStart"
+        android:textDirection="rtl"
+        android:layoutDirection="rtl"
+        android:textSize="16sp"
+        android:textColor="#333"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageEdu"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon" />
+
+    <life.car.CustomViews.MyTextView
+        android:id="@+id/desc"
+        android:text="hbh"
+        android:textSize="13sp"
+        android:textColor="#646464"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:background="#dedede"
+        android:layout_width="match_parent"
+        android:layout_height="2px">
+
+    </LinearLayout>
+
+</LinearLayout>

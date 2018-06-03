@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">کار لایف</string>
+    <string name="cost_registration">هزینه ها</string>
+    <string name="offense">خلافی</string>
+    <string name="education">آموزش</string>
+    <string name="log_in">ورود</string>
+    <string name="report">گزارش</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="add_image">Add Image</string>
+    <string name="title_activity_display_image">DisplayImage</string>
+    <string name="image_information">Image Information</string>
+</resources>

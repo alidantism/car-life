@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_log_in"
+        android:icon="@drawable/icon"
+        android:title="@string/log_in" />
+
+    <item
+        android:id="@+id/navigation_education"
+        android:icon="@drawable/learning"
+        android:title="@string/education" />
+
+    <item
+        android:id="@+id/navigation_cost_registration"
+        android:icon="@drawable/cost"
+        android:title="@string/cost_registration" />
+
+    <item
+        android:id="@+id/navigation_offense"
+        android:icon="@drawable/handcuffs"
+        android:title="@string/offense" />
+
+    <item
+        android:id="@+id/navigation_report"
+        android:icon="@drawable/report"
+        android:title="@string/report" />
+
+</menu>

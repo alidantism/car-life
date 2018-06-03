@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea4335</color>
+    <color name="colorPrimaryDark">#da3e31</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgBottomNavigation">#fff</color>
+
+
+    <color name="deepPurple1">#353535</color>
+    <color name="deepPurple2">#565656</color>
+    <color name="deepPurple3">#8b8b8b</color>
+    <color name="deepPurple4">#ed525f</color>
+    <color name="deepPurple5">#D1C4E9</color>
+    <color name="black">#fcfcfc</color>
+    <color name="white">#fff</color>
+</resources>
